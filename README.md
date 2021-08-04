@@ -1,2 +1,2 @@
-# java-spa-simple-app
+# javascript-spa-simple-app
  
